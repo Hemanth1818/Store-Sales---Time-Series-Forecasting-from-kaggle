@@ -61,7 +61,7 @@ To understand the dataset and evaluate the model, the following visualizations w
 To run the project:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Hemanth1818/store-sales-forecasting.git
+   git clone https://github.com/Hemanth1818/Store-Sales---Time-Series-Forecasting-from-kaggle.git
    cd store-sales-forecasting
    ```
 2. Install dependencies:
